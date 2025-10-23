@@ -6,11 +6,7 @@
     <img src="./assets/demo.gif" />
 </p>
 
-<p align ="center" width="100%">
-    <video width="320" height="240" controls>
-        <source src="./assets/demo.mp4" type="video/mp4">
-    </video>
-</p>
+![demo-video](./assets/demo.mp4)
 
 ## Dependencies
 
